@@ -1,0 +1,12 @@
+{
+  "name": "jitsi",
+  "version": "1.0.0",
+  "description": "trying lib-jitsi-meet",
+  "main": "index.js",
+  "repository": "git@github.com-fs:mohicans-pop-2008/jitsi.git",
+  "author": "Kevin Hu <hukxchen+git@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@lyno/lib-jitsi-meet": "^1.5076.0"
+  }
+}
